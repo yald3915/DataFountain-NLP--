@@ -1,6 +1,6 @@
-♥This file （Kaggle_eff.ipynb） is the baseline code for DataFountain Netizen Emotion Recognition Competition During the Epidemic
+♥This file is the baseline code for DataFountain Netizen Emotion Recognition Competition During the Epidemic
 
-Kaggle_eff.ipynb文件是DataFountain Netizen Emotion Recognition Competition During the Epidemic（疫情期间网民情绪识别大赛）比赛的baseline代码
+以上文件是DataFountain Netizen Emotion Recognition Competition During the Epidemic（疫情期间网民情绪识别大赛）比赛的baseline代码
 
 ⭐Please star to download the file
 
